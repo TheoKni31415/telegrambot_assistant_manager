@@ -5,7 +5,7 @@ from datetime import datetime
 from time import sleep
 from telebot import types
 
-bot = telebot.TeleBot('6011317370:AAFElMJAy4PsDtzJLZwAhN-uhXqRRQO266M')
+bot = telebot.TeleBot('YOUR TOKEN')
 file_path = "mydata.json"
 name = ""
 id = ""
